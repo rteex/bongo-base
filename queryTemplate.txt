@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<kehys>
+ <yleinen>
+  <sanomatyyppi>TPSUOTIEDOTHAKUIN</sanomatyyppi>
+  <sovellus>TPSUO</sovellus>
+  <kayttooikeudet>
+   <tietojarjestelma>
+    <tunnus>#SECRET1#</tunnus>
+    <salasana>#SECRET2#</salasana>
+   </tietojarjestelma>
+   </kayttooikeudet>
+ </yleinen>
+ <sanoma>
+  <ajoneuvonHakuehdot>
+   <rekisteritunnus>#REGNUMBER#</rekisteritunnus>
+   <laji>#REGTYPE#</laji>
+   <kyselylaji>#QUERYTYPE#</kyselylaji>
+   <kayttotarkoitus>3</kayttotarkoitus>
+   <asiakas>#SECRET3#</asiakas>
+   <soku-tunnus>#SECRET4#</soku-tunnus>
+   <palvelutunnus>#SECRET5#</palvelutunnus>
+  </ajoneuvonHakuehdot>
+ </sanoma>
+</kehys>
