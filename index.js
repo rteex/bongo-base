@@ -7,7 +7,7 @@
  */
 
 // versioning
-const bongoBaseVersion = '0.1.1'; // 2024-11-29
+const bongoBaseVersion = '0.1.1'; // 2024-11-29 
 
 console.log("*** bongo-base version", bongoBaseVersion, "started ***");
 
